@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background:url('/images/wall.jpg') ;
+    background:url('./images/wall.jpg') ;
 }
 
 h1 {
@@ -11,6 +11,7 @@ h1 {
     font-style: oblique;
     font-size: 80px;
     margin: 0 200px;
+    text-decoration: underline ;
 }
 
 h1.shadow {
